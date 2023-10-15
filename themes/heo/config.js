@@ -11,7 +11,7 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HERO_TITLE_1: '分享交互设计',
-  HERO_TITLE_2: '与奇奇怪怪的知识',
+  HERO_TITLE_2: '与相关资源',
   HERO_TITLE_3: 'navos.net',
   HERO_TITLE_4: '必看',
   HERO_TITLE_5: '交互设计知识汇总',
